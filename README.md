@@ -21,7 +21,7 @@ A barra de navegação possui três links principais:
 
 - **HTML**: Para a estruturação do conteúdo com uso de tags semânticas como `<header>`, `<nav>`, `<main>`, `<footer>`, `<article>` entre outras.
 - **CSS**: Para a estilização do site, aplicando cores, espaçamentos e layouts responsivos.
-- **Flexbox**: Utilizado para o layout e alinhamento dos elementos, especialmente na criação de uma navegação flexível e no posicionamento das seções. Flexbox foi escolhido por ser amplamente utilizado em projetos profissionais atualmente.
+   - **Flexbox**: Utilizado para o layout e alinhamento dos elementos, especialmente na criação de uma navegação flexível e no posicionamento das seções. Flexbox foi escolhido por ser amplamente utilizado em projetos profissionais atualmente.
 
 ## Organização do Projeto
 
