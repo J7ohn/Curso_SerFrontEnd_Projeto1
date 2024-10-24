@@ -9,7 +9,7 @@
     flex-direction: column;
     width: 100%;
     height: 500px;
-    background-image: url(../ProjetoCSS-inicio/imagens/bg-3.jpg);
+    background-image: url(./imagens/bg-3.jpg);
     background-size: cover;
     background-position: center right;
 }
